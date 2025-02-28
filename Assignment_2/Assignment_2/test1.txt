@@ -1,0 +1,303 @@
+Time :0
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :1
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :2
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :3
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :4
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :5
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :6
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :7
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :8
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :9
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :10
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :11
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :12
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :13
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :14
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :15
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :16
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :17
+waiting tasks : (1,18,4) (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :18
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1:(1,18,4) 
+Queue2: Closed
+
+Time :19
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1:(1,18,3) 
+Queue2: Closed
+
+Time :20
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1:(1,18,2) 
+Queue2: Closed
+
+Time :21
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1:(1,18,1) 
+Queue2: Closed
+
+Time :22
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :23
+waiting tasks : (2,24,3) (3,25,3) (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :24
+waiting tasks : (3,25,3) (4,29,4) 
+Queue1:(2,24,3) 
+Queue2: Closed
+
+Time :25
+waiting tasks : (4,29,4) 
+Queue1:(2,24,2) 
+Queue2:(3,25,3) 
+
+Time :26
+waiting tasks : (4,29,4) 
+Queue1:(2,24,1) 
+Queue2:(3,25,2) 
+
+Time :27
+waiting tasks : (4,29,4) 
+Queue1: Closed
+Queue2:(3,25,1) 
+
+Time :28
+waiting tasks : (4,29,4) 
+Queue1: Closed
+Queue2: Closed
+
+Time :29
+waiting tasks : 
+Queue1:(4,29,4) 
+Queue2: Closed
+
+Time :30
+waiting tasks : 
+Queue1:(4,29,3) 
+Queue2: Closed
+
+Time :31
+waiting tasks : 
+Queue1:(4,29,2) 
+Queue2: Closed
+
+Time :32
+waiting tasks : 
+Queue1:(4,29,1) 
+Queue2: Closed
+
+Time :33
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :34
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :35
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :36
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :37
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :38
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :39
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :40
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :41
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :42
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :43
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :44
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :45
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :46
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :47
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :48
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :49
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :50
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :51
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :52
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :53
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :54
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :55
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :56
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :57
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :58
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Time :59
+waiting tasks : 
+Queue1: Closed
+Queue2: Closed
+
+Average service time: 3.5
+Average waiting time: 1.75
+Peak hour: 25
